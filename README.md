@@ -28,3 +28,13 @@ This project is an IoT-based energy monitoring system using the **ESP32 microcon
 | Breadboard + Jumper Wires| Connections                  |
 
 ---
+📦 Required Libraries
+Install in Arduino IDE:
+
+FirebaseESP32 by Mobizt
+
+Adafruit SSD1306
+
+Adafruit GFX
+
+WiFi and Wire (built-in)
