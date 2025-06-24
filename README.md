@@ -38,3 +38,12 @@ Adafruit SSD1306
 Adafruit GFX
 
 WiFi and Wire (built-in)
+---
+🔍 Use Case
+Smart homes for real-time appliance monitoring
+
+Remote energy analytics
+
+Automated cutoff for overload protection
+
+Expandable to include ML prediction or energy optimization
